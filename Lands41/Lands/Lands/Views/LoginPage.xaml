@@ -44,7 +44,7 @@
                         Grid.Column="1"
                         IsPassword="True"
                         Text="{Binding Password, Mode=TwoWay}"
-                        Placeholder="Enter your emil...">
+                        Placeholder="Enter your password...">
                     </Entry>
                 </Grid>
                 <ActivityIndicator
